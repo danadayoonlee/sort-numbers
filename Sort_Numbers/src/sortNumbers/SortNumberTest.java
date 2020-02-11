@@ -1,4 +1,4 @@
-package dayoon_lee_exercise3;
+package sortNumbers;
 
 public class SortNumberTest {
 
